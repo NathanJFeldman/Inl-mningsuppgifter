@@ -1,0 +1,14 @@
+venv/
+__pyache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.venv
+.vscode
+.DS_Store
+
+*.log
+
+*.tmp
